@@ -1,3 +1,94 @@
-h1{color: brown;}
-h2{color: blue;}
-h3{color: blueviolet;}
+/* body*/
+.body {position: relative;width: 1440px;
+  height: 2592px;
+  background:#FFFFFF; }
+  /* header */
+  .top-line {position: absolute;
+    width: 1452px;
+    height: 72px;
+    left: 0px;
+    top: 0px;}
+    
+    .logo {display: flex;
+      flex-direction: row;
+      align-items: center;
+      padding: 0px;
+      
+      position: absolute;
+      width: 114.76px;
+      height: 21px;
+      left: 130.73px;
+      top: 29px;
+      filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));}
+    .menu-nav{display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      padding: 0px;
+      gap: 40px;
+      
+      position: absolute;
+      width: 260.46px;
+      height: 24px;
+      left: 312.35px;
+      top: 36px;
+      }
+     
+      .studio{  width: 48px;
+        height: 24px;font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;letter-spacing: 0.02em;color: #2E2F42;
+        flex: none;
+          order: 0;
+         flex-grow: 0;
+        }  
+     
+        .portfolio{width: 66px;
+          height: 24px;font-family: 'Roboto';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 16px;
+          line-height: 24px;letter-spacing: 0.02em;color: #2E2F42;
+          flex: none;
+          order: 1;
+          flex-grow: 0;}
+
+        .contacts{width: 67px;
+  height: 24px;font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;letter-spacing: 0.02em;
+  color: #2E2F42;flex: none;
+  order: 2;
+  flex-grow: 0;}
+.mail{position: absolute;
+  width: 152.68px;
+  height: 24px;
+  left: 904.11px;
+  top: 36px;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;letter-spacing: 0.02em;
+ color: #434455;}
+.tel{position: absolute;
+  width: 150.69px;
+  height: 24px;
+  left: 1096.71px;
+  top: 36px;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;letter-spacing: 0.02em;
+color: #434455;
+}
+.hero-image{position: absolute;
+  width: 1440px;
+  height: 600px;
+  left: 2px;
+  top: 96px;
+  }
