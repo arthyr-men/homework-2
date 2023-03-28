@@ -866,4 +866,97 @@ background: #F4F4FD;
             flex: none;
             order: 0;
             flex-grow: 0;}
-   
+ .rov-1{position: absolute;
+  width: 1134px;
+  height: 420px;
+  left: 156px;
+  top: 276px;
+  }
+  .banking{box-sizing: border-box;
+    position: absolute;
+    width: 360px;
+    height: 420px;
+    left: 156px;
+    top: 276px;
+    background: #FFFFFF;
+    border: 1px solid #E7E9FC;}
+  .cashless{box-sizing: border-box;
+    position: absolute;
+    width: 360px;
+    height: 420px;
+    left: 546px;
+    top: 276px;
+    background: #FFFFFF;
+    border: 1px solid #E7E9FC;}
+ .meditation{box-sizing: border-box;
+  position: absolute;
+  width: 360px;
+  height: 420px;
+  left: 930px;
+  top: 276px;
+  background: #FFFFFF;
+  border: 1px solid #E7E9FC;} 
+
+ .rov-2{
+  position: absolute;
+  width: 1128px;
+  height: 420px;
+  left: 156px;
+  top: 756px;}
+  .taxi{
+    box-sizing: border-box;
+    position: absolute;
+    width: 360px;
+    height: 420px;
+    left: 156px;
+    top: 756px;
+    background: #FFFFFF;
+    border: 1px solid #E7E9FC;}
+  .screen{box-sizing: border-box;
+    position: absolute;
+    width: 360px;
+    height: 420px;
+    left: 540px;
+    top: 756px;
+     background: #FFFFFF;
+     border: 1px solid #E7E9FC;}
+  .online{box-sizing: border-box;
+    position: absolute;
+    width: 360px;
+    height: 420px;
+    left: 924px;
+    top: 756px;
+    background: #FFFFFF;
+    border: 1px solid #E7E9FC;}
+ 
+ .rov-3{position: absolute;
+  width: 1128px;
+  height: 420px;
+  left: 156px;
+  top: 1224px;}
+  .instagram{box-sizing: border-box;
+    position: absolute;
+    width: 360px;
+    height: 420px;
+    left: 156px;
+    top: 1224px;
+    background: #FFFFFF;
+    border: 1px solid #E7E9FC;}
+  .organic{
+    box-sizing: border-box;
+    position: absolute;
+    width: 360px;
+    height: 420px;
+    left: 540px;
+    top: 1224px;
+    background: #FFFFFF;
+    border: 1px solid #E7E9FC;}
+  .fresh{
+    box-sizing: border-box;
+    position: absolute;
+    width: 360px;
+    height: 420px;
+    left: 924px;
+    top: 1224px;
+    background: #FFFFFF;
+    border: 1px solid #E7E9FC;}
