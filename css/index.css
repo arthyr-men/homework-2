@@ -605,7 +605,13 @@ background: #F4F4FD;
         top: 100px; }
       /*2-page-portfolio-2*/
        /* Body Medium */
-      .body-2{
+       :root {
+        --primary-color: #007bff;
+        --secondary-color: #6c757d;
+      }
+       .body-2{
+        font-family: "Roboto", sans-serif;
+        color: #434455;
         position: relative;
         width: 1440px;
         height: 2076px;
@@ -1323,9 +1329,5 @@ flex-grow: 0;
     .footer-box-2{position: absolute;
       width: 264px;
       height: 112px;
-      left: 156px;
+      left: 156px;}
       
-      }
-      body {
-        font-family: 'Open Sans', sans-serif;
-      }
