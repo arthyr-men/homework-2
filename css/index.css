@@ -18,7 +18,10 @@
     line-height: 1.17;
     letter-spacing: 0.03em ;
     text-transform: uppercase;
-    color: #4d5ae5 ;
+    
+  }
+  .link{
+    text-decoration: none ;
   }
      .stydio-1-color{color:#2e2f42;}
     .logo {display: flex;
@@ -44,6 +47,7 @@
       left: 312.35px;
       top: 11px;
       }
+      .list{ list-style: none;}
      
       .studio {  width: 48px;
         height: 24px;font-family: 'Roboto';
@@ -642,7 +646,7 @@ background: #F4F4FD;
     line-height: 1.17;
     letter-spacing: 0.03em ;
     text-transform: uppercase;
-    color:#4d5ae5; }
+    }
         .stydio-2-color{
           color:#2e2f42;}
        .logo-2{display: flex;
