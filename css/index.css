@@ -24,17 +24,7 @@
     text-decoration: none ;
   }
      .stydio-1-color{color:#2e2f42;}
-    .logo {display: flex;
-      flex-direction: row;
-      align-items: center;
-      padding: 0px;
-      
-      position: absolute;
-      width: 114.76px;
-      height: 21px;
-      left: 130.73px;
-      top: 29px;
-      filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));}
+    
     .menu-nav {display: flex;
       flex-direction: row;
       align-items: flex-start;
@@ -620,17 +610,21 @@ background: #F4F4FD;
     }
         .stydio-2-color{
           color:#2e2f42;}
-       .logo-2{display: flex;
-        flex-direction: row;
-        align-items: center;
-        padding: 0px;
-        
-        position: absolute;
-        width: 115px;
-        height: 24px;
-        left: 156px;
-        top: 24px;
-        } 
+          .logo-1-2-portfolio {display: flex;
+            flex-direction: row;
+            align-items: center;
+            padding: 0px;
+            
+            position: absolute;
+            width: 114.76px;
+            height: 21px;
+            left: 130.73px;
+            top: 29px;
+            filter: drop-shadow(0px 4px 4px 
+            rgba(0, 0, 0, 0.25));
+          
+          }
+       
         .menu-nav-2{display: flex;
           flex-direction: row;
           align-items: flex-start;
