@@ -134,7 +134,9 @@ color: #434455;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    background-color: #404BBF;}
+    background-color:#4D5AE5;
+    cursor: pointer;
+  }
     /*cection-1*/
     .cection-1-cection {
       position: absolute;
