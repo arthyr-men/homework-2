@@ -7,7 +7,7 @@
   background:#FFFFFF;
   font-family: "Roboto", sans-serif }
   /* header */
-  .top-line {position: absolute;
+  .top-line-1 {position: absolute;
     width: 1452px;
     height: 72px;
     left: 0px;
@@ -59,6 +59,8 @@
           flex: none;
           order: 1;
           flex-grow: 0;}
+          .address-header-1{ 
+            font-style: normal;}
 
         .contacts {width: 67px;
   height: 24px;font-family: 'Roboto';
@@ -1329,7 +1331,7 @@ flex-grow: 0;
     line-height: 1.5;
     letter-spacing: 0.02em ;
     color:#2e2f42;
-    hover: #404bbf;
+    
    }
    .footer-text-portfolio{
     position: absolute;
@@ -1350,5 +1352,5 @@ flex-grow: 0;
       height: 112px;
       left: 156px;
     }
-      .stydio-footer-color{ color: #2e2f42}
+      .stydio-footer-color{ color:#2e2f42 }
       .link{ text-decoration: none}
