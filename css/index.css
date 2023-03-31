@@ -610,7 +610,7 @@ background: #F4F4FD;
     }
         .stydio-2-color{
           color:#2e2f42;}
-          .logo-1-2-portfolio {display: flex;
+          .logo-class-portfolio {display: flex;
             flex-direction: row;
             align-items: center;
             padding: 0px;
@@ -1285,7 +1285,7 @@ flex-grow: 0;
     order: 1;
     flex-grow: 0;}
     /*footer-2*/
-    .footer-1-portfolio {
+    .footer-class-1-portfolio {
       position: absolute;
       width: 1440px;
       height: 312px;
@@ -1293,18 +1293,19 @@ flex-grow: 0;
       top: 2280px;
       background: #2E2F42;}
      
-  .footer-2-portfolio{
+  .footer-class-portfolio{
     position: absolute;
     width: 1440px;
     height: 312px;
     left: 0px;
     top: 1764px;
-     background: #2E2F42;}
+     background: #2E2F42;
+    }
     :root {
       --primary-color: #007bff;
       --secondary-color: #6c757d;
     } 
-   .logo-2{
+   .logo-class-portfolio{
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -1313,6 +1314,7 @@ flex-grow: 0;
     width: 115px;
     height: 24px;
     left: 156px;
+    
     font-family: 'Raleway',sans-serif;
     font-weight: 800 ;
     font-size: 18px;
@@ -1320,6 +1322,7 @@ flex-grow: 0;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
+    color: #4d5ae5; 
    }
    .footer-text-portfolio{
     position: absolute;
@@ -1334,8 +1337,11 @@ flex-grow: 0;
     line-height: 24px;
    letter-spacing: 0.02em;
     color: #F4F4FD;}
-    .footer-box-portfolio{position: absolute;
+    .footer-box-portfolio{
+      position: absolute;
       width: 264px;
       height: 112px;
-      left: 156px;}
+      left: 156px;
+    }
       .stydio-1-color{ color: #f4f4fd}
+      .link{ text-decoration: none}
