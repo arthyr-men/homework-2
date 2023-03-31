@@ -135,8 +135,10 @@ color: #434455;
     letter-spacing: 0.04em;
     color: #ffffff;
     background-color:#4D5AE5;
-    cursor: pointer;
-  }
+    cursor: pointer;}
+    .button:hover,
+.button:focus {
+  background-color: #404BBF;}
     /*cection-1*/
     .cection-1-cection {
       position: absolute;
