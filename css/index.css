@@ -314,14 +314,13 @@ top: 0px;
   top: 1016px;
   }  
   /*what-are-we-doing*/
-  .what-are-we-doing {position: absolute;
+  .what-are-we-doing {
+    position: absolute;
     width: 323px;
     height: 40px;
     left: 400px;
     line-height: 1.11 ;
-    letter-spacing: 0.02em;
-    
-    font-family: 'Roboto';
+   font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
