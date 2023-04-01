@@ -38,7 +38,7 @@
       }
       .list{ list-style: none;}
      
-      .studio {  width: 48px;
+      .studio-header-portfolio {  width: 48px;
         height: 24px;font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
@@ -65,7 +65,7 @@
             font-style: normal;
             color: #434455;}
 
-        .contacts {width: 67px;
+        .contacts-header-portfolio {width: 67px;
   height: 24px;font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
