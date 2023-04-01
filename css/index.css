@@ -318,6 +318,8 @@ top: 0px;
     width: 323px;
     height: 40px;
     left: 400px;
+    line-height: 1.11 ;
+    letter-spacing: 0.02em;
     
     font-family: 'Roboto';
     font-style: normal;
