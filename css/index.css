@@ -24,7 +24,7 @@
   
      .stydio-1-color{color:#2e2f42;}
     
-    .menu-nav {display: flex;
+    .menu-nav-header {display: flex;
       flex-direction: row;
       align-items: flex-start;
       padding: 0px;
@@ -35,6 +35,7 @@
       height: 24px;
       left: 312.35px;
       top: 11px;
+       color: #434455;
       }
       .list{ list-style: none;}
      
