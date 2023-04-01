@@ -319,14 +319,16 @@ top: 0px;
     width: 323px;
     height: 40px;
     left: 400px;
-    line-height: 1.11 ;
-   font-family: 'Roboto';
+
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
     line-height: 40px;
     text-align: center;
-    letter-spacing: 0.02em;
+
     text-transform: capitalize;
     color: #2E2F42;
     }    
