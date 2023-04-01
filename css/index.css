@@ -312,22 +312,20 @@ color: #434455;
   top: 1016px;
   }  
   /*what-are-we-doing*/
-  .what-are-we-doing {
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    position: absolute;
-    width: 323px;
-    height: 40px;
-    left: 400px;
-
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    line-height: 40px;
-    text-align: center;
+    .what-are-we-doing {
+       letter-spacing: 0.02em;
+       position: absolute;
+       width: 323px;
+       height: 40px;
+       left: 400px;
+       font-family: 'Roboto';
+       font-style: normal;
+       font-weight: 700;
+       font-size: 36px;
+       letter-spacing: 0.02em;
+       line-height: 40px;
+       line-height: 1.11;
+       text-align: center;
 
     text-transform: capitalize;
     color: #2E2F42;
