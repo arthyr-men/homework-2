@@ -163,11 +163,11 @@ color: #434455;
         left: 0px;
        
         display: flex;
-flex-direction: column;
-align-items: flex-start;
-padding: 0px;
-gap: 8px;
-top: 0px;     
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+        top: 0px;     
         
         }
         .strategy-our-actions {
@@ -198,7 +198,7 @@ top: 0px;
             flex-grow: 0;
             }
             /*feature-2*/
-            .feature-2 {display: flex;
+            .feature-2-punctuality {display: flex;
               flex-direction: column;
               align-items: flex-start;
               padding: 0px;
@@ -209,29 +209,29 @@ top: 0px;
               left: 288px;
               top: 0px;
               }
-              .punctuality {width: 264px;
+              .punctuality-2-punctuality {width: 264px;
                 height: 24px;font-family: 'Roboto';
                 font-style: normal;
                 font-weight: 500;
                 font-size: 20px;
-                line-height: 24px;
+                line-height: 1.2;
                 letter-spacing: 0.02em;
                 color: #2E2F42;flex: none;
                 order: 0;
                 flex-grow: 0;}
-                .punctuality-text {width: 264px;
+                .punctuality-text-2-punctuality {width: 264px;
                   height: 72px;font-family: 'Roboto';
                   font-style: normal;
                   font-weight: 400;
                   font-size: 16px;
-                  line-height: 24px;
+                  line-height: 1.5;
                   letter-spacing: 0.02em;color: #434455;
                   flex: none;
                   order: 1;
                   flex-grow: 0;
                   }
                   /*feature-3*/
-                  .feature-3{display: flex;
+                  .feature-3-diligence{display: flex;
                     flex-direction: column;
                     align-items: flex-start;
                     padding: 0px;
@@ -243,33 +243,32 @@ top: 0px;
                     left: 576px;
                     top: 0px;
                     }
-                  .diligence {width: 264px;
+                  .diligence-3-diligence {width: 264px;
                     height: 24px;
                  
                     font-family: 'Roboto';
                     font-style: normal;
                     font-weight: 500;
                     font-size: 20px;
-                    line-height: 24px;
-                    
+                    line-height: 1.2;
                     letter-spacing: 0.02em;
                     color: #2E2F42;
                     flex: none;
                     order: 0;
                     flex-grow: 0;}
-                  .diligence-text {width: 264px;
+                  .diligence-text-3-diligence {width: 264px;
                     height: 72px;
                     font-family: 'Roboto';
                     font-style: normal;
                     font-weight: 400;
                     font-size: 16px;
-                    line-height: 24px;
+                    line-height: 1.5;
                     letter-spacing: 0.02em;
                     color: #434455;flex: none;
                     order: 1;
                     flex-grow: 0;}
                     /*feature-4*/
-                    .feature-4 {display: flex;
+                    .feature-4-technologies {display: flex;
                       flex-direction: column;
                       align-items: flex-start;
                       padding: 0px;
@@ -280,26 +279,26 @@ top: 0px;
                       height: 104px;
                       left: 864px;
                       top:0px;}
-                    .technologies {width: 264px;
+                    .technologies-4-technologies {width: 264px;
                       height: 24px;
                   
                       font-family: 'Roboto';
                       font-style: normal;
                       font-weight: 500;
                       font-size: 20px;
-                      line-height: 24px;
+                      line-height: 1.2;
                       letter-spacing: 0.02em;
                       color: #2E2F42;
                       flex: none;
                       order: 0;
                       flex-grow: 0;}
-                    .technologies-text {width: 264px;
+                    .technologies-text-4-technologies {width: 264px;
                       height: 72px;
                       font-family: 'Roboto';
                       font-style: normal;
                       font-weight: 400;
                       font-size: 16px;
-                      line-height: 24px;
+                      line-height: 1.5 ;
                       letter-spacing: 0.02em;
                       color: #434455;
                       flex: none;
