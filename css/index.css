@@ -154,10 +154,8 @@ color: #434455;
       width: 1128px;
       height: 155px;
       left: 156px;
-      top: 792px;
-     
-      }
-      /*feature-1*/
+      top: 792px;}
+     /*feature-1*/
       .feature-1-feature { 
         position: absolute;
         width: 1128px;
@@ -172,7 +170,7 @@ gap: 8px;
 top: 0px;     
         
         }
-        .strategy {
+        .strategy-our-actions {
           width: 264px;
           height: 24px;
           
@@ -186,13 +184,14 @@ top: 0px;
           flex: none;
           order: 0;
           flex-grow: 0;
+          line-height: 1.2;
           }
-          .strategy-text {width: 264px;
+          .strategy-text-our-actions {width: 264px;
             height: 72px;font-family: 'Roboto';
             font-style: normal;
             font-weight: 400;
             font-size: 16px;
-            line-height: 24px;
+            line-height: 1.5;
             letter-spacing: 0.02em;
             color: #434455;flex: none;
             order: 1;
