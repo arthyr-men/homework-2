@@ -1357,3 +1357,12 @@ flex-grow: 0;
       .link{ text-decoration: none}
       .link:hover, .link:focus {
         color: #404bbf;} 
+        a:hover {
+          color: #404bbf;
+        }
+        
+        /* Focus style for links */
+        a:focus {
+          color: #404bbf;
+        }
+       
