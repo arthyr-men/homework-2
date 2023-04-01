@@ -20,9 +20,8 @@
     text-transform: uppercase;
     color: #4d5ae5;
   }
-  .link{
-    text-decoration: none ;
-  }
+ 
+  
      .stydio-1-color{color:#2e2f42;}
     
     .menu-nav {display: flex;
@@ -48,6 +47,8 @@
         flex: none;
           order: 0;
          flex-grow: 0;
+         color: #404bbf ;
+
         }  
      
         .portfolio {width: 66px;
@@ -59,8 +60,9 @@
           flex: none;
           order: 1;
           flex-grow: 0;}
-          .address-header-1{ 
-            font-style: normal;}
+          .address-header-address { 
+            font-style: normal;
+            color: #404bbf;}
 
         .contacts {width: 67px;
   height: 24px;font-family: 'Roboto';
@@ -71,7 +73,7 @@
   color: #2E2F42;flex: none;
   order: 2;
   flex-grow: 0;}
-.mail {position: absolute;
+.mail-address-header-address {position: absolute;
   width: 152.68px;
   height: 24px;
   left: 904.11px;
@@ -80,9 +82,9 @@
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 24px;letter-spacing: 0.02em;
+line-height: 1.5;letter-spacing: 0.02em;
  color: #434455;}
-.tel {position: absolute;
+.tel-address-header-address {position: absolute;
   width: 150.69px;
   height: 24px;
   left: 1096.71px;
@@ -91,7 +93,7 @@ line-height: 24px;letter-spacing: 0.02em;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 24px;letter-spacing: 0.02em;
+line-height: 1.5;letter-spacing: 0.02em;
 color: #434455;
 }
 .hero-image {position: absolute;
@@ -1351,3 +1353,5 @@ flex-grow: 0;
     }
       .stydio-footer-color{ color:#2e2f42 }
       .link{ text-decoration: none}
+      .link:hover, .link:focus {
+        color: #404bbf;} 
