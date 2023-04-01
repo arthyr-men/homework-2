@@ -315,6 +315,8 @@ top: 0px;
   }  
   /*what-are-we-doing*/
   .what-are-we-doing {
+    line-height: 1.11;
+    letter-spacing: 0.02em;
     position: absolute;
     width: 323px;
     height: 40px;
