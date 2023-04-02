@@ -371,7 +371,7 @@ color: #434455;
           left:766px;
            top:113px;}     
         /*section-3*/
-.section-3 {
+.section-3-our-team {
  
   position: absolute;
 width: 1440px;
@@ -423,10 +423,8 @@ background: #F4F4FD;
         flex: none;
         order: 0;
         flex-grow: 0;}
-        .mark-text {width: 134px;
+        .our-team-section  {width: 134px;
           height: 24px;
-          
-          
           font-family: 'Roboto';
           font-style: normal;
           font-weight: 500;
@@ -497,7 +495,7 @@ background: #F4F4FD;
               flex: none;
               order: 0;
               flex-grow: 0;}
-            .frontend-developer {width: 144px;
+            .frontend-developer-text {width: 144px;
               height: 24px;
               font-family: 'Roboto';
               font-style: normal;
