@@ -1382,7 +1382,7 @@ flex-grow: 0;
 
 
 
-        :root {
+     :root {
           --primari-font: 'Roboto', sans-serif;
           --secondery-font: 'Raleway', sans-serif;
           --title-text-color: #2E2F42;
