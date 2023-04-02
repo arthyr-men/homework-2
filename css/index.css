@@ -1394,7 +1394,8 @@ flex-grow: 0;
       height: 112px;
       left: 156px;
     }
-      .stydio-footer-color{ color:#4d5ae5 }
+.stydio-header-color{color:#4d5ae5;}
+      .stydio-footer-color{ color: #2e2f42; }
       .link{ text-decoration: none}
       .link:hover, .link:focus {
         color: #404bbf;} 
