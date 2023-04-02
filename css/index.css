@@ -129,7 +129,7 @@ color: #434455;
   
   }
   .button {
-    background-color: #4D5AE5 ;
+    background-color:#4D5AE5;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -168,6 +168,7 @@ color: #434455;
         height: 104px;
         left: 0px;
        
+        background-color:#2e2f42;
         display: flex;
         flex-direction: column;
         align-items: flex-start;
@@ -611,6 +612,41 @@ background: #F4F4FD;
       flex: none;
       order: 1;
       flex-grow: 0;}
+      /*footer*/
+.footer-class-portfolio{
+  position: absolute;
+  width: 1440px;
+  height: 312px;
+  left: 0px;
+  top: 2280px;
+  background-color:#2e2f42;
+  }
+.footer-box-portfolio-1{
+  position: absolute;
+width: 264px;
+height: 112px;
+left: 156px;
+top: 2380px;
+}
+.logo-class-portfolio-1{display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  
+  position: absolute;
+  width: 115px;
+  height: 24px;
+  left: 156px;
+  top: 2380px;
+  font-family: "Raleway";
+  font-weight: 800 ;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase ;
+  color: #4d5ae5;
+}
+
      
        .body-2{
         font-family: "Roboto", sans-serif;
@@ -1358,7 +1394,7 @@ flex-grow: 0;
       height: 112px;
       left: 156px;
     }
-      .stydio-footer-color{ color:#2e2f42 }
+      .stydio-footer-color{ color:#4d5ae5 }
       .link{ text-decoration: none}
       .link:hover, .link:focus {
         color: #404bbf;} 
