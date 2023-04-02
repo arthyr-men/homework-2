@@ -736,7 +736,7 @@ top: 2380px;
         flex: none;
         order: 2;
         flex-grow: 0;}
-        .mail-2{position: absolute;
+        .mail-adress-mail{position: absolute;
           width: 153px;
           height: 24px;
           left: 940px;
@@ -748,7 +748,7 @@ top: 2380px;
           line-height: 24px;
           letter-spacing: 0.02em;
           color: #434455;}
-        .tel-2{
+        .tel-adress-tel{
           position: absolute;
           width: 151px;
           height: 24px;
