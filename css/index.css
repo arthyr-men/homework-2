@@ -656,7 +656,7 @@ top: 2380px;
         height: 2076px;
         background: #FFFFFF;}
       /*menu-nav-2*/
-        .top-line-2{
+        .top-line-nav-ul{
         position: absolute;
         width: 1440px;
         height: 72px;
@@ -689,7 +689,7 @@ top: 2380px;
           
           }
        
-        .menu-nav-2{display: flex;
+        .menu-nav-ul{display: flex;
           flex-direction: row;
           align-items: flex-start;
           padding: 0px;
@@ -700,7 +700,7 @@ top: 2380px;
           height: 24px;
           left: 347px;
           top: 24px;}
-      .studio-2{width: 48px;
+      .studio-nav-ul{width: 48px;
         height: 24px;
         font-family: 'Roboto';
         font-style: normal;
@@ -708,11 +708,11 @@ top: 2380px;
         font-size: 16px;
         line-height: 24px;
         letter-spacing: 0.02em;
-        color: #2E2F42;
+        color:#434455;
         flex: none;
         order: 0;
         flex-grow: 0;}
-      .portfolio-2{width: 66px;
+      .portfolio-nav-ul{width: 66px;
         height: 24px;
         font-family: 'Roboto';
         font-style: normal;
@@ -724,7 +724,7 @@ top: 2380px;
         flex: none;
         order: 1;
         flex-grow: 0;}
-      .contacts-2{width: 67px;
+      .contacts-nav-ul{width: 67px;
         height: 24px;
         font-family: 'Roboto';
         font-style: normal;
@@ -762,7 +762,7 @@ top: 2380px;
           letter-spacing: 0.02em;
           color: #434455;}
           /*section-filters*/
-          .filters{display: flex;
+          .content-portfolio{display: flex;
             flex-direction: row;
             align-items: flex-start;
             padding: 0px;
@@ -772,7 +772,22 @@ top: 2380px;
             height: 48px;
             left: 427px;
             top: 168px;}
-          .button-1{
+            .menu-nav-list {}
+            .portfolio-btn-list{display: flex;
+              flex-direction: row;
+              align-items: flex-start;
+              padding: 12px 24px;
+               width: 69px;
+              height: 48px;
+              background: #404BBF;
+              box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+              border-radius: 4px;
+              flex: none;
+              order: 0;
+              flex-grow: 0;}
+
+            
+          .portfolio-button{
             
             display: flex;
             flex-direction: row;
