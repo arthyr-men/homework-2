@@ -1204,6 +1204,20 @@ flex-grow: 0;
   flex: none;
   order: 1;
   flex-grow: 0;}
+  .portfolio-button {
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+  }
+  
+  .portfolio-button:hover {
+    color: #FFFFFF;
+    background-color: #404BBF;
+  }
+  
+  .portfolio-button:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+  }
  .online-box{
   display: flex;
   flex-direction: column;
