@@ -371,7 +371,7 @@ color: #434455;
           left:766px;
            top:113px;}     
         /*section-3*/
-.section-3-our-team {
+.section-our-team {
  
   position: absolute;
 width: 1440px;
@@ -380,7 +380,7 @@ left: 0px;
 top: 1548px;
 background: #F4F4FD;
   }
-  .our-team {position: absolute;
+  .our-team-one {position: absolute;
     width: 162px;
     height: 40px;
     left: 639px;
@@ -395,7 +395,7 @@ background: #F4F4FD;
     text-transform: capitalize;
     color: #2E2F42;
     }
-    .team-card-1 {display: flex;
+    .team-card-one {display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
