@@ -151,8 +151,8 @@ color: #434455;
      color: #ffffff;
      cursor: pointer;}
     .button:hover,
-    .button:focus {  background-color: var(--pressed-state-color);
-      color: var(--background-white-color);
+    .button:focus {  background-color: #404BBF;
+      
   }
     /*cection-1*/
     .cection-1-cection {
