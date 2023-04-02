@@ -628,6 +628,26 @@ height: 112px;
 left: 156px;
 top: 2380px;
 }
+.logo-footer-class-portfolio{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  
+  position: absolute;
+  width: 115px;
+  height: 24px;
+  left: 156px;
+  top: 1876px;
+  font-family: "Raleway",sans-serif;
+  font-weight: 800 ;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase ;
+  color: #4d5ae5;
+
+}
 .logo-class-portfolio{display: flex;
   flex-direction: row;
   align-items: center;
@@ -670,12 +690,10 @@ top: 2380px;
     line-height: 1.17;
     letter-spacing: 0.03em ;
     text-transform: uppercase;
-    color:#434455;
-    }
-    .menu-page-nav{}
-    .contacts-address{}
-        .stydio-2-color{
-          color:#2e2f42;}
+    color:#434455;}
+
+           .stydio-2-color{
+             color:#2e2f42;}
          
        
         .menu-nav-ul{display: flex;
@@ -764,7 +782,7 @@ top: 2380px;
             height: 48px;
             left: 427px;
             top: 168px;}
-            .menu-nav-list {}
+          
             .portfolio-btn-list{display: flex;
               flex-direction: row;
               align-items: flex-start;
@@ -1372,31 +1390,30 @@ flex-grow: 0;
       top: 2280px;
       background: #2E2F42;}
      
-  .footer-class-portfolio{
+  .footer-class-portfolio
+    {
     position: absolute;
     width: 1440px;
     height: 312px;
     left: 0px;
     top: 1764px;
      background: #2E2F42;
-    }
+     }
+        .footer-text-portfolio{
+        position: absolute;
+        width: 264px;
+        height: 72px;
+        left: 156px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+       letter-spacing: 0.02em;
+       color: #F4F4FD;
+      }
     
-   
-   }
-   .footer-text-portfolio{
-    position: absolute;
-    width: 264px;
-    height: 72px;
-    left: 156px;
-    
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-   letter-spacing: 0.02em;
-    color: #F4F4FD;}
-    .footer-box-portfolio{
+      .footer-box-portfolio{
       position: absolute;
       width: 264px;
       height: 112px;
@@ -1404,7 +1421,7 @@ flex-grow: 0;
     }
 .stydio-header-color{
   color:#2e2f42}
-      .stydio-footer-color{ color: #f4f4fd;
+      .stydio-footer-color{color: #f4f4fd;
       
       
       }
