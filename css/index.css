@@ -142,7 +142,7 @@ color: #434455;
      top: 428px;
      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
-    background-color: #4D5AE5;
+   
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -1381,11 +1381,7 @@ flex-grow: 0;
           list-style: none;
           margin-right: 24px; /* добавляем отступ между элементами */
         }
-
-
-
-
-     :root {
+            :root {
           --primari-font: 'Roboto', sans-serif;
           --secondery-font: 'Raleway', sans-serif;
           --title-text-color: #2E2F42;
@@ -1398,3 +1394,7 @@ flex-grow: 0;
           --background-white-color: #ffffff;
       }     
        
+
+
+
+    
