@@ -628,7 +628,7 @@ height: 112px;
 left: 156px;
 top: 2380px;
 }
-.logo-class-portfolio-1{display: flex;
+.logo-class-portfolio{display: flex;
   flex-direction: row;
   align-items: center;
   padding: 0px;
@@ -638,7 +638,7 @@ top: 2380px;
   height: 24px;
   left: 156px;
   top: 2380px;
-  font-family: "Raleway";
+  font-family: "Raleway",sans-serif;
   font-weight: 800 ;
   font-size: 18px;
   line-height: 1.17;
@@ -1394,8 +1394,9 @@ flex-grow: 0;
       height: 112px;
       left: 156px;
     }
-.stydio-header-color{color:#4d5ae5;}
-      .stydio-footer-color{ color: #2e2f42; }
+.stydio-header-color{
+  color:#2e2f42}
+      .stydio-footer-color{ color: #f4f4fd; }
       .link{ text-decoration: none}
       .link:hover, .link:focus {
         color: #404bbf;} 
