@@ -999,7 +999,7 @@ top: 2380px;
     height: 56px;
     left: 0px;
     top: 332px;}
-  .banking-text{width: 290px;
+  .banking-text-five{width: 290px;
     height: 24px;
     font-family: 'Roboto';
     font-style: normal;
@@ -1011,7 +1011,7 @@ top: 2380px;
     flex: none;
     order: 0;
     flex-grow: 0;}
-  .p-1{
+  .five-marketing-text{
     width: 30px;
     height: 24px;
     font-family: 'Roboto';
@@ -1104,13 +1104,13 @@ top: 2380px;
   height: 420px;
   left: 156px;
   top: 756px;}
-  .taxi{
+  .taxi-five-box{
     box-sizing: border-box;
     position: absolute;
     width: 360px;
     height: 420px;
-    left: 156px;
-   
+    left: 137px;
+   top: 276px;
     background: #FFFFFF;
     border: 1px solid #E7E9FC;}
   .screen{box-sizing: border-box;
@@ -1129,7 +1129,7 @@ top: 2380px;
    
     background: #FFFFFF;
     border: 1px solid #E7E9FC;}
- .taxi-box{
+ .box-text-five{
   display: flex;
 flex-direction: column;
 justify-content: center;
