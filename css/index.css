@@ -316,11 +316,8 @@
      .footer-class-portfolio{
        background-color:#2e2f42;}
   
-    .logo-footer-class-portfolio{
-      display: flex;
-      flex-direction: row;
-      align-items: center;
-      padding: 0px;
+    .logo-footer-class-portfolio
+    {
       font-family: "Raleway",sans-serif;
       font-weight: 800 ;
       line-height: 1.17;
@@ -528,15 +525,14 @@
   .footer-class-portfolio
     {
    
-     background: #2E2F42;
+     background-color: #2E2F42;
      }
        
 
-      .stydio-footer-color{color: #f4f4fd;
-      
-      
+      .stydio-footer-color{
+        color: #f4f4fd;
       }
-      .link{ text-decoration: none}
+      .link{ text-decoration: none;}
       .link:hover, .link:focus {
         color: #404bbf;} 
         a:hover {
