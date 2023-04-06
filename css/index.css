@@ -554,8 +554,15 @@
               color: #404bbf;
               }
           
-               :root {
-              --primari-font: 'Roboto', sans-serif;
-            --secondery-font: 'Raleway', sans-serif;
-            } 
- 
+              :root {
+                --primari-font: 'Roboto', sans-serif;
+                --secondery-font: 'Raleway', sans-serif;
+                --title-text-color: #2E2F42;
+                --body-text-color: #434455;
+                --accent-color: #e7e9fc;
+                --primary-brand-color: #4D5AE5;
+                --pressed-state-color: #404bbf;
+                --background-section-color: #f4f4fd;
+                --background-dark-color: #2e2f42;
+                --background-white-color: #ffffff;
+            }
