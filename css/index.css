@@ -341,8 +341,8 @@
        .body-2{
          font-family: "Roboto",
          sans-serif;
-         color: #434455;
-         background: #FFFFFF;}
+         color:var(--body-text-color);
+         background:var(--background-white-color);}
       /*menu-nav-2*/
       .top-line-nav-ul{
          background: #FFFFFF;
