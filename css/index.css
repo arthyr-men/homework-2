@@ -1,8 +1,8 @@
 /* body*/
 .body {
   font-family: "Roboto", sans-serif;
-   color: #434455;
-   background-color: #FFFFFF;
+   color:var(--body-text-color);
+   background-color:var(--background-white-color);
     }
   /* header */
   .top-line-body {
