@@ -408,7 +408,8 @@
           letter-spacing: 0.02em;
           color: #434455;}
           /*section-filters*/
-          .content-portfolio{display: flex;
+          .content-portfolio{
+            
             flex-direction: row;
             align-items: flex-start;
             padding: 0px;
@@ -481,13 +482,11 @@
           .banking{box-sizing: border-box;
            background: #FFFFFF;
            border: 1px solid #E7E9FC;}
-    .taxi-five-box-list
-    { 
-      margin:top 400px;
+    
       
 
      
-      }   
+        
       .menu-nav-list{
      
       }
@@ -517,7 +516,7 @@
     flex-grow: 0;}
   
     .taxi-five-box{
-      box-sizing: border-box; 
+      
       background: #FFFFFF;
       border: 1px solid #E7E9FC;}
  
