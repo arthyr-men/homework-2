@@ -15,7 +15,7 @@
     color: #4d5ae5;
   }
      
-  .menu-nav-header {display: flex;
+  .menu-nav-header {
        flex-direction: row;
        align-items: flex-start;
        padding: 0px;
@@ -23,10 +23,7 @@
        color: #434455;
       }
       .list{ list-style: none;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        flex-wrap: wrap;
+       
       }
      
       .studio-header-portfolio { 
@@ -123,7 +120,12 @@
       }
      
       .feature-1-feature { 
-         background-color: #2e2f42;
+         
+         display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            padding: 0px;
+            gap: 8px;
             
        
       }
@@ -142,6 +144,13 @@
           flex-grow: 0;
           line-height: 1.2;
           }
+          .feature-2-punctuality{
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            padding: 0px;
+            gap: 8px;
+          }
           .strategy-text-our-actions {
             font-family: 'Roboto';
             font-style: normal;
@@ -149,7 +158,8 @@
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.02em;
-            color: #434455;flex: none;
+            color: #434455;
+            flex: none;
             order: 1;
             flex-grow: 0;
             }
@@ -186,7 +196,7 @@
               letter-spacing: 0.02em;
               line-height: 40px;
               line-height: 1.11;
-              text-align: center;
+              
               text-transform: capitalize;
               color: #2E2F42;
     }    
@@ -227,7 +237,7 @@
            font-weight: 700;
            font-size: 36px;
            line-height: 40px;
-           text-align: center;
+          
            line-height: 1.11;
            letter-spacing: 0.02em;
            text-transform: capitalize;
@@ -257,7 +267,7 @@
           font-weight: 500;
           font-size: 20px;
           line-height: 24px;
-          text-align:center;
+         
           letter-spacing:0.02em;
           color: #2E2F42;
           flex:none;
@@ -278,7 +288,7 @@
               font-weight: 400;
               font-size: 16px;
               line-height: 24px;
-              text-align: center;
+             
               letter-spacing: 0.02em;
               color: #434455;
               flex: none;
@@ -340,6 +350,10 @@
    /* ------portfolio ------*/
      
        .body-2{
+      
+    
+    
+
          font-family: "Roboto",
          sans-serif;
          color:var(--body-text-color);
@@ -355,7 +369,8 @@
         letter-spacing: 0.03em ;
         text-transform: uppercase;
         color: #434455;}
-       .menu-nav-ul{display: flex;
+       .menu-nav-ul{
+       
           flex-direction: row;
           align-items: flex-start;
           padding: 0px;
@@ -363,7 +378,7 @@
           }
       .studio-nav-ula{
         font-family: 'Roboto';
-        font-style: normal;
+       
         font-weight: 500;
         font-size: 16px;
         line-height: 24px;
@@ -416,7 +431,7 @@
               flex-direction: row;
               align-items: flex-start;
                 padding: 12px 24px;
-                background: #404BBF;
+               
                 box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
                 border-radius: 4px;
                 flex: none;
@@ -464,7 +479,16 @@
           .banking{box-sizing: border-box;
            background: #FFFFFF;
            border: 1px solid #E7E9FC;}
-       
+    .taxi-five-box-list
+    { 
+      margin:top 400px;
+      
+
+     
+      }   
+      .menu-nav-list{
+     
+      }
    
            
   .banking-text-five{
@@ -491,13 +515,13 @@
     flex-grow: 0;}
   
     .taxi-five-box{
-      box-sizing: border-box;
+      box-sizing: border-box; 
       background: #FFFFFF;
       border: 1px solid #E7E9FC;}
  
       
       .box-text-five{
-       display: flex;
+        display: flex;
        flex-direction: column;
       justify-content: center;
       align-items: flex-start;
@@ -557,3 +581,44 @@
                 --background-dark-color: #2e2f42;
                 --background-white-color: #ffffff;
             }
+            
+
+
+           
+
+            h1,
+            h2,
+            h3,
+            h4,
+            p {
+                margin-top: 10;
+                margin-bottom: 0;
+            }
+            
+            ul {
+                margin-top: 10;
+                margin-bottom: 0;
+                padding-left: 0;
+            
+            }
+            
+            img {
+                display: block;
+            }
+            
+            button {
+                display: block;
+            
+            }
+            
+            
+            
+            .container {
+                width: 1158px;
+                margin-left: auto;
+                margin-right: auto;
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+            
+
