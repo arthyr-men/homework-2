@@ -188,7 +188,7 @@
   }  
             /*what-are-we-doing*/
             .what-are-we-doing {
-              
+              text-align: center;
               font-family: 'Roboto';
               font-style: normal;
               font-weight: 700;
