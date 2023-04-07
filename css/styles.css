@@ -188,7 +188,7 @@
   }  
             /*what-are-we-doing*/
             .what-are-we-doing {
-      
+              
               font-family: 'Roboto';
               font-style: normal;
               font-weight: 700;
@@ -232,12 +232,13 @@
         background: #F4F4FD;
         }
          .our-team-one {
+           padding-left: 0;
            font-family: 'Roboto';
            font-style: normal;
            font-weight: 700;
            font-size: 36px;
            line-height: 40px;
-          
+           text-align: center;
            line-height: 1.11;
            letter-spacing: 0.02em;
            text-transform: capitalize;
@@ -590,9 +591,11 @@
             h2,
             h3,
             h4,
-            p {
+            p {position: left 15px;
+              
                 margin-top: 10;
                 margin-bottom: 0;
+                padding-left: 0;
             }
             
             ul {
